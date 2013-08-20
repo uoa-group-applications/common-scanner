@@ -12,14 +12,15 @@
 	<packaging>jar</packaging>
 
 	<name>common-scanner</name>
-	<version>1.14-SNAPSHOT</version>
+	<version>1.14</version>
 	<description>Provides scanner functionality for various</description>
 
 	<scm>
 		<url>https://github.com/uoa-group-applications/common-scanner</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/common-scanner.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-scanner.git</developerConnection>
-	</scm>
+	  <tag>common-scanner-1.14</tag>
+  </scm>
 
 	<dependencies>
 	
